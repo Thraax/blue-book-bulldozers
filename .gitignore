@@ -1,3 +1,4 @@
 data/raw/TrainAndValid.csv
 data/processed/TrainValid_proc.csv
 data/processed/TrainValid_clean.csv
+models/model.pkl
